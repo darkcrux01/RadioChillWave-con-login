@@ -1,0 +1,6 @@
+.venv/
+bprintapp/__pycache__/
+bprintapp/blueprints/test/__pycache__/
+bprintapp/migrations/
+bprintapp/blueprints/users/__pycache__/
+instance/
